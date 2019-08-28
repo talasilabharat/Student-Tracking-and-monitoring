@@ -1,4 +1,4 @@
-RapidSMS Education Monitoring Information System (RapidSMS-EMIS)
+Students Monitoring
 ================================================================
 The school monitoring system is a mobile-phone based data collection
 system using RapidSMS that collects data about schools from school
