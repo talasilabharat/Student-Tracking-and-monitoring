@@ -1,5 +1,5 @@
 Students Monitoring
-================================================================
+
 The school monitoring system is a mobile-phone based data collection
 system using RapidSMS that collects data about schools from school
 administrators and people who work closely with schools. Head teachers and
@@ -11,10 +11,6 @@ capitation grants made to the schools. Other data that can be collected
 by the education monitoring system include data on teacher attendance,
 presense of amenities such as hygienic facilities at schools.
 
-Technically speaking, RapidSMS-EMIS leverages the work of rapidsms-script
-(github.com/daveycrockett/rapidsms-script/) to provide an easy system
-for automated conversation-like communication between the rapidsms-emis
-application, teachers and other education specialists and administrators.
 
 Reports that are gathered include:
  - Teacher and student attendance
@@ -72,4 +68,4 @@ Set the environment variable `$DJANGO_SETTINGS_MODULE` to e.g. `settings.local`.
 Continuous Integration
 ----------------------
 
-[![build status][build-status]](https://travis-ci.org/unicefuganda/edtrac)
+
